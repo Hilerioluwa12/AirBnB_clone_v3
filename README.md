@@ -155,7 +155,8 @@ No known bugs at this time.
 
 ## Authors
 Adebayo Martins Abayomi - [Github](https://github.com/Hilerioluwa12) / [Twitter](https://twitter.com/hiliz_bayomi)  
-**** **** - [Github](***) / [Twitter](****)
+
+Ojougboh Emeke Collins - [Github](https://github.com/emekeo) / [Twitter](https://twitter.com/ojougbohemeke)
 
 Second part of Airbnb: Joann Vuong
 ## License
